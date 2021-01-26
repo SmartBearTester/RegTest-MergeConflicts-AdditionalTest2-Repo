@@ -120,8 +120,8 @@ Claims-API-%26-Userinfo\lol_region-%7C-Claims.xml
 Claims-API-%26-Userinfo\lol_region-%7C-Userinfo.xml
 Claims-API-%26-Userinfo\cpid-%7C-Claims.xml
 Claims-API-%26-Userinfo\cpid-%7C-Userinfo.xml
-Get-tokens-for-Claims-and-Userinfo\Get-token-%7C-password-grant-type.xml
-Get-tokens-for-Claims-and-Userinfo\Get-token-%7C-client-creds-grant-type.xml
+Get-tokens-for-Claims-and-Userinfo\Get-token---password-grant-type.xml
+Get-tokens-for-Claims-and-Userinfo\Get-token---client-creds-grant-type.xml
 Status-Checks\Atlas.xml
 Status-Checks\Account-Service.xml
 Healthchecks\Account-Service.xml
